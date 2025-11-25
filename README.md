@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anjani Amarathunga</h1>
 <h3 align="center">Full-Stack Developer | UI/UX Designer | IT Undergraduate</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anjani-Amarathunga&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
@@ -50,12 +53,8 @@ I'm a passionate Information Technology undergraduate dedicated to building inno
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjani-Amarathunga&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anjani-Amarathunga&show_icons=true&theme=tokyonight&rank_icon=github" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjani-Amarathunga&layout=compact&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anjani-Amarathunga&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjani-Amarathunga&layout=compact&theme=tokyonight&count_private=true" height="160" />
 </p>
 
 
@@ -63,7 +62,7 @@ I'm a passionate Information Technology undergraduate dedicated to building inno
 
 ## 🔗 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:anjani01amarathunga@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>

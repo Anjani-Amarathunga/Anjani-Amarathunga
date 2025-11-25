@@ -22,27 +22,27 @@ I'm a passionate Information Technology undergraduate dedicated to building inno
 
 ### 🖥️ Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter" />
 </p>
 
 ### 🛠️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,springboot,python" />
 </p>
 
 ### 🗄️ Database & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
 ### 🤖 AI & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### ⚙️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,docker,linux,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,androidstudio" />
 </p>
 
 ---

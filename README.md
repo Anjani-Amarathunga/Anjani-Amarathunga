@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anjani Amarathunga</h1>
+<h3 align="center">Full-Stack Developer | UI/UX Designer | IT Undergraduate</h3>
 
-<!--
-**Anjani-Amarathunga/Anjani-Amarathunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💫 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Information Technology undergraduate dedicated to building innovative software solutions and exploring creative ways to solve real-world problems.
+
+- 🎓 Undergraduate at **University of Moratuwa**  
+- 💻 Focused on Full-Stack Development with **Flutter, React, Spring Boot, and MySQL**  
+- 📱 Experienced **Mobile App Developer**, especially in **Flutter**  
+- 🌱 Currently learning more about backend development, APIs, and advanced UI design  
+- 🎯 Love combining creativity with functionality to build user-friendly applications  
+- 🧠 Interested in **Web Development, Mobile Development, and Smart System Design**  
+- 📫 Reach me at: **anjani01amarathunga@gmail.com**  
+- ⚡ Fun fact: I enjoy transforming ideas into clean, simple, and smart solutions  
+
+---
+
+## 🚀 Tech Stack
+
+### 🖥️ Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,tailwind,bootstrap" />
+</p>
+
+### 🛠️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" />
+</p>
+
+### 🗄️ Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,aws,azure" />
+</p>
+
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,docker,linux,vscode,androidstudio" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anjani-Amarathunga&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjani-Amarathunga&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="mailto:anjani01amarathunga@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/anjani-amarathunga-b37835298">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile! ✨</p>

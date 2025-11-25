@@ -50,12 +50,12 @@ I'm a passionate Information Technology undergraduate dedicated to building inno
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anjani-Amarathunga&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjani-Amarathunga&layout=compact&theme=tokyonight&count_private=true" height="160" />
-</p>
+</p>-->
 
 
 ---
@@ -66,7 +66,6 @@ I'm a passionate Information Technology undergraduate dedicated to building inno
   <a href="mailto:anjani01amarathunga@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/anjani-amarathunga-b37835298">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>

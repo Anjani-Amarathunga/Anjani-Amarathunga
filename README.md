@@ -27,7 +27,7 @@ I'm a passionate Information Technology undergraduate dedicated to building inno
 
 ### 🛠️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,springboot,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python" />
 </p>
 
 ### 🗄️ Database & Cloud
@@ -55,7 +55,7 @@ I'm a passionate Information Technology undergraduate dedicated to building inno
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anjani-Amarathunga&show_icons=true&theme=tokyonight&rank_icon=github" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjani-Amarathunga&layout=compact&theme=tokyonight" height="160">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjani-Amarathunga&layout=compact&theme=tokyonight" height="160">
 </p>
 
 
